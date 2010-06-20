@@ -10,6 +10,8 @@ The name’s Eric Cestari and I am thirty-something.
 
 I usually go by the cstar (or c* where possible) handle.
 
+![Eric Cestari, with head roughly shaved, looking half mysterious, half amused.](/images/cstar.jpg "Eric Cestari")
+
 What’s this blog about ?
 ---
 It’s mainly geeky and technical stuff about web and XMPP development.
