@@ -1,6 +1,10 @@
 --- 
-:theme: plain
-:title: c* and code
-:github_user: cstar
-:header_color: 8DBD82
-:name: cstar.github.com
+theme: plain
+title: c* and code
+github_user: cstar
+header_color: 8DBD82
+name: cstar.github.com
+pygments: true
+auto: true
+lsi: true
+
