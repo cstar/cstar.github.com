@@ -24,7 +24,7 @@ HTTP also never stops amazing me, as I always discover new things.
 
 Cloud services also interests me a lot, so expect a few posts on Amazon Web Services.
 
-Also I tend to be that Apple fanboy since 1984 and my parents’ Apple //c
+Also I tend to be that Apple fanboy since 1984 and my parents’ Apple //c.
 
 I see posts in French !
 ---
@@ -55,5 +55,6 @@ Getting in touch
 ---
 [twitter](http://twitter.com/cstar/) is good
 
-
 I have a profile on [linkedin](http://www.linkedin.com/pub/0/931/a94) and on [viadeo  (fr)](http://www.viadeo.com/recherche/profil/?memberId=0021qy43rdcmbguh).
+
+![email](/images/email.png "Eric Cestari")
