@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Erlang : De l'infrastructure d'internet
+title: Erlang, De l'infrastructure d'internet
 ---
 <p>Si vous suivez ce blog, ces derniers temps vous aurez vu <a href="http://www.cestari.info/erlang">quelques posts sur Erlang</a>, le langage utilis&eacute; par Ericsson pour son mat&eacute;riel t&eacute;l&eacute;phonique et utilis&eacute; pour l&#8217;impl&eacute;mentation la plus performante du protocole de messagerie XMPP.</p>
 

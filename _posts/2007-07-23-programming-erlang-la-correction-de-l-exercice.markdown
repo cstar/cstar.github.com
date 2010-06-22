@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming Erlang : La correction de l'exercice !
+title: Programming Erlang, La correction de l'exercice !
 ---
 <p>Sur la page 158 de Programming Erlang, il y a un exercice.
 Faire un anneau de N processus. On envoie le message &agrave; l&#8217;un deux, et le message parcourt l&#8217;anneau M fois.</p>

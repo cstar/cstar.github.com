@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VDM : Ohm Force dans les magasins
+title: VDM, Ohm Force dans les magasins
 ---
 <h1>La distribution des logiciels Ohm Force</h1>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Livre : The Big Switch de Nicholas Carr
+title: Livre, The Big Switch de Nicholas Carr
 ---
 <p>J&#8217;ai reçu une copie presque finale de <a href="http://www.nicholasgcarr.com/bigswitch/">The Big Switch</a> de Nicholas Carr.
 <img src="/assets/2008/1/27/bigswitchcover2thumb.jpg" alt="bigswitchcover2thumb.jpg" border="0" width="160" height="243" align="left" />

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EC2 : La tentation de puissance
+title: EC2, La tentation de puissance
 ---
 <p><a href="http://aws.amazon.com/ec2">Amazon Elastic Computing Cloud</a>, aka EC2, mon nouveau jouet.</p>
 

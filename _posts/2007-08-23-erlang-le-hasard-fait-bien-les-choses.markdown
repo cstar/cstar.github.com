@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Erlang : le hasard fait bien les choses
+title: Erlang, le hasard fait bien les choses
 ---
 <p>Aujourd&#8217;hui, je voulais r&eacute;aliser un prototype de serveur TCP en Erlang/OTP.</p>
 

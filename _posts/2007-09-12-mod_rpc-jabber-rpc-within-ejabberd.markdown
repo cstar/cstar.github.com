@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mod_rpc : Jabber-RPC within ejabberd
+title: mod_rpc, Jabber-RPC within ejabberd
 ---
 <h1>What is mod_rpc ?</h1>
 

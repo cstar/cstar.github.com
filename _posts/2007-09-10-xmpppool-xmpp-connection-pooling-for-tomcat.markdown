@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [UPDATED] XMPPPool : XMPP Connection Pooling for Tomcat and Grails/Jetty
+title: [UPDATED] XMPPPool, XMPP Connection Pooling for Tomcat and Grails/Jetty
 ---
 <p>Release 0.3 of XMPPPool</p>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re: XMPP a 10 ans
+title: Re XMPP a 10 ans
 ---
 <p>Je reviens tout juste de la Cité des Sciences et de l&#8217;Industrie pour une journée 50% familial,e 50% XMPP et 100% réussie.</p>
 

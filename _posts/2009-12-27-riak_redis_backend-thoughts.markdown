@@ -1,6 +1,6 @@
 ---
 layout: post
-title: riak_redis_backend : thoughts
+title: riak_redis_backend thoughts
 ---
 <h2>Post Mortem</h2>
 

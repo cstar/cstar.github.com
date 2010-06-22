@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mod_couch : embedding ecouch client for CouchDB in ejabberd
+title: mod_couch, embedding ecouch client for CouchDB in ejabberd
 ---
 <h1>Quick and dirty :</h1>
 

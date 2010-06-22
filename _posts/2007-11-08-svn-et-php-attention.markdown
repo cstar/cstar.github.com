@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SVN et PHP : attention !
+title: SVN et PHP, attention !
 ---
 <h1>PHP</h1>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond Relational : cours donn&#xE9; &#xE0; l'ECE
+title: Beyond Relational, cours donn&#xE9; &#xE0; l'ECE
 ---
 <p>J’ai appris tardivement que je devais donner un cours de base de données de 3h aux élèves de dernière année en spécialisation SI.</p>
 
