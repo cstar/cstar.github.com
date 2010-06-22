@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JRuby 1.0 : experiences
+title: JRuby 1.0, experiences
 ---
 <p>J&rsquo;ai d&eacute;velopp&eacute; une application Rails pour Ohm Force en interne. Il est un peu trop t&ocirc;t pour parler du contenu de cette application qui aura de toute mani&egrave;re une port&eacute;e limit&eacute;e &#8211; ce sera un extranet, qui devrait &ecirc;tre en soi une exp&eacute;rience int&eacute;ressante. </p>
 

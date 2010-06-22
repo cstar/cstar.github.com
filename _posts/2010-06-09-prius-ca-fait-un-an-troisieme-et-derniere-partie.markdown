@@ -2,6 +2,7 @@
 layout: post
 title: Prius, &#xE7;a fait un an. Troisi&#xE8;me et derni&#xE8;re partie.
 ---
+
 Je profite — ironiquement — d'un voyage en train pour taper cette troisième partie.
 
 Cette troisième partie abordera les soucis z'et problèmes, et quelques défauts de cette voiture. Ce sera l'occasion aussi de faire un bilan.
@@ -75,9 +76,9 @@ Du coup, changement de pneu. Et comme, au fond du Loiret, impossible de trouver 
 
 Mais c'est pas fini ! Il faut maintenant que je refasse le plein du liquide anti-crevaison dans le compresseur. Je profite de la révision des 15 000km pour demander au concessionnaire le prix de la recharge. Il écarquille les yeux en me le disant : 107€. Soit 25€ de plus qu'un pneu neuf.
 
-Evidemment, je n'ai pas pris la recharge, et j'ai acheté pour 10€ une bombe anticrevaison au supermarché. Je me servirai du compresseur comme ... compresseur, il est tout à fait capable de balancer 2,7 bar dans les pneus, ça évite d'aller faire la queue à la station service.
+Evidemment, je n'ai pas pris la recharge, et j'ai acheté pour 10€ une bombe anti-crevaison au supermarché. Je me servirai du compresseur comme ... compresseur, il est tout à fait capable de balancer 2,7 bar dans les pneus, ça évite d'aller faire la queue à la station service.
 
-Ce problème de crevaison et d'absence de roue de secours n'est évidemment pas spécifique à la Prius. Toutes les marques font ça maintenant. Et de toute manière on subit une crevaison tous les 7 ans en moyenne — ce qui est exactement ce qui s'est passé pour moi. La Twingo a crevé en 2003. Je racheterai le liquide en 2017.
+Ce problème de crevaison et d'absence de roue de secours n'est évidemment pas spécifique à la Prius. Toutes les marques font ça maintenant. Et de toute manière on subit une crevaison tous les 7 ans en moyenne — ce qui est exactement ce qui s'est passé pour moi. La Twingo a crevé en 2003. Je rachèterai le liquide en 2017.
 
 <h2>La conclusion</h2>
 
