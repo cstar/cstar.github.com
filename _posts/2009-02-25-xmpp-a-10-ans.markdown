@@ -1,0 +1,71 @@
+---
+layout: post
+title: XMPP a 10 ans !
+---
+<h1>Pour fêter ça :</h1>
+
+<p>Une journée de présentation sur XMPP à la Villette.</p>
+
+<p>Les infos sont <a href="http://jehan.zemarmot.net/blog/2009/01/22/10-ans-lage-de-linsouciance-appel-a-conferenciers-et-sponsors/">ici</a> et <a href="http://www.agendadulibre.org/showevent.php?id=2879">ici</a>.</p>
+
+<p>Merci à Laurent de me <a href="http://ubikod.com/otmf/2009/02/24/jabberxmpp-a-10-ans/">l&#8217;avoir appris</a> !</p>
+
+<p>Je vais y aller pour rencontrer les gens et écouter certaines conf. Et aussi pour emmener le nain aux expositions permanentes de la Cité des Sciences.</p>
+
+<h1>Le communiqué complet :</h1>
+
+<p>La communauté francophone des utilisateurs de Jabber/XMPP organise un
+évènement anniversaire pour les 10 ans du protocole, samedi 28 février
+au Carrefour Numérique de la Cité des Sciences et de l’Industrie.</p>
+
+<p>Cet événement a pour but de faire découvrir au grand public comme aux
+professionnels les possibilités de ce protocole de messagerie instantané,
+ses usages actuels et futurs, ainsi que de faire un état des arts de la
+communication instantanée.</p>
+
+<p>L’évènement vous proposera des conférences d’une part, où vous seront
+présentés divers projets ainsi que des thématiques générales par
+divers acteurs communautaires (Ludovic Gilbon, Jan Torben Heuer, Jehan,
+Kael, Thierry Stœhr, Nicolas Vérité) ainsi que des acteurs
+professionnels sponsorisant l’évènement (Process One, Ubikod et Violet),
+et des ateliers d’autres part.</p>
+
+<p>Nous remercions en particulier (et dans un ordre aléatoire ne reflétant
+aucune forme de préférence) l’ensemble de la communauté qui apporte aide
+et soutien, nos sponsors, la XSF pour la gestion du développement du
+protocole XMPP, ainsi que les associations AFUL, APRIL, FSF France et
+Parinux qui nous ont énormément aidés à organiser l’évènement.</p>
+
+<p>Le programme ci-dessous n’est pas entièrement fixé et est donc
+susceptible de changer, mais donne néanmoins une idée des sujets
+présentés et des horaires.</p>
+
+<p>Conférences:</p>
+
+<p>10H15: « présentation succinte de la journée et du protocole Jabber pour
+la messagerie instantanée et la présence sur Internet » (intervenant:
+Jehan — durée: 15 minutes)</p>
+
+<p>10H45: « historique, situation et perspectives de Jabber/XMPP »
+(intervenant: Nicolas Vérité — durée 45 minutes)</p>
+
+<p>11H45: « L’utilisation de bots pour automatiser la récupération
+répétitive d’informations contextuelles » (intervenant: Kael et Jehan –
+durée: 15 minutes)</p>
+
+<p>13h15: « BuddyMob : un réseau social mobile basé sur xmpp »
+(intervenant: Laurent Lathieyre, Ubikod — durée: 30 minutes)</p>
+
+<p>14h: « Violet et Violet OOOS : La plate forme Violet Open Object Operating
+System » (intervenant: Olivier Mével, Violet — durée: 30 minutes)</p>
+
+<p>14h45: « Social networks based on Jabber/XMPP - The power of decentrality
+and privacy » (intervenant: Jan Torben Heuer, en anglais)</p>
+
+<p>15h30: « Introduction à Jabber facile » (intervenant: Ludovic Gilbon –
+durée 30 minutes)</p>
+
+<p>16h15: « Les formats ouverts, protocoles ouverts et la messagerie
+instantanée » (intervenant: Thierry Stœhr — durée: 30 minutes)</p>
+
+<p>17h15: (intervenant: Process One — durée 30 minutes)</p>      

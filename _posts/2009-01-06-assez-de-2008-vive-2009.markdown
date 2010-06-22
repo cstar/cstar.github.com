@@ -1,0 +1,82 @@
+---
+layout: post
+title: Assez de 2008, vive 2009
+---
+<h1>Ça, c&#8217;est fait</h1>
+
+<p>Que 2009 vous soit profitable avec du bonheur, des enfants et GTA IV à 60 FPS. Et que vos projets soient couronnés de succès.</p>
+
+<p>Vue partielle de 2008 :</p>
+
+<h1>XMPP</h1>
+
+<p>Un de mes objectifs à long terme était de m&#8217;impliquer dans un projet Open Source. Les quelques patches que j&#8217;ai envoyés aux developpeurs d&#8217;ejabberd semblent rentrer dans cette catégorie.</p>
+
+<p>XMPP est vraiment passionnant à travailler en ce moment. Il y a un <a href="http://oreilly.com/catalog/9780596157197/">livre chez O&#8217;Reilly</a> en préparation, fini de lire les XEP et leur (nécessaire) sécheresse.</p>
+
+<h1>HTTP</h1>
+
+<p>Les services REST, atompub, l&#8217;importance des headers de caching, Amazon S3 (en vrac &#8230; rien de spécifique à 2008, sinon mon intérêt)</p>
+
+<h1>All things Apple</h1>
+
+<p>Bien qu&#8217;il soit en réparation parce qu&#8217;un ventilateur vibrait de manière insupportable, mon nouveau MacBook Pro a instantanément rendu le design du précédent obsolète.</p>
+
+<p>En 2008 aussi j&#8217;ai enfin un accès permanent, systématique et abordable à internet, via mon iPhone et mais aussi sur mon portable grâce à feu <a href="http://www.igeneration.fr/fr/actu/6407/">NetShare</a>.</p>
+
+<h1>Ohm Force</h1>
+
+<p>2008 a été l&#8217;année de l&#8217;embauche : 2 nouvelles têtes, Cid à la communication et David sur le développement web, plus une troisième qui arrive bientôt.</p>
+
+<p>2008 a aussi été l&#8217;année de l&#8217;explosion. Les membres d&#8217;Ohm Force sont maintenant tout autour de la France : Marseille, Chartres, Carhaix, et le reste en  région parisienne. On avait aussi Vincent à Nice, mais il a réajusté sa vie professionnelle en 2008.</p>
+
+<h1>Martin</h1>
+
+<p><img src="/assets/2009/1/6/IMG_0005.jpg" alt="IMG_0005.jpg" border="0" width="300" height="400" /></p>
+
+<p>Certes, il date de 2007, mais les mises à jours sont constantes, et il commence à parler (plus de deux mots à la suite). </p>
+
+<p>Passions : </p>
+
+<ul>
+<li>les camions de pompier</li>
+<li>la combo lave-linge/sèche-linge (un tas de boutons à appuyer)</li>
+<li>le lave-vaisselle, le vider, (avec l&#8217;aide de son papa et/ou de sa maman)</li>
+</ul>
+
+<p>Il a trouvé ces passions-là tout seul, et avec une complémentarité sur les passions de son père (qui sont : ne pas vider le lave-vaisselle et ne pas faire la lessive)</p>
+
+<p>Note pour plus tard : prendre une machine à chargement frontal, et apprendre à Martin à trier les couleurs et le blanc.</p>
+
+<p>Les autres jeux sont toujours basé sur les règles du <a href="http://www.bartel.org/calvinball/">CalvinBall</a>, mais uniquement dans sa variation 1 joueur.</p>
+
+<h1>Misc</h1>
+
+<p>Je suis membre de l&#8217;APRIL depuis cette fin d&#8217;année.</p>
+
+<h1>Quoi de neuf en 2009 ?</h1>
+
+<p>Des tas de supers choses vachement bien. (Certains à Ohm Force sont beaucoup plus pessimistes, je refais un stock de boite de conserves des fois qu&#8217;ils aient raison).</p>
+
+<p>Mes objectifs en vrac :</p>
+
+<ul>
+<li>apprendre un nouveau langage (ou un vieux, je me remettrai bien à Python)</li>
+<li>faire des mises à jour sur <a href="http://www.mangervite.com/">MangerVite</a> (je me demande si j&#8217;ai pas écris ça l&#8217;année dernière à la même période &#8230;)</li>
+<li>maîtriser mon <a href="http://www.docslumpy.info/ddd/public/affiche/picooz350.jpg">Picooz</a> (et éviter les cheveux d&#8217;Hélène et les poils de chat dans le rotor de queue)</li>
+<li>améliorer la qualité de mon code</li>
+<li><a href="http://fr.wikipedia.org/wiki/Getting_Things_Done">Getting Things Done</a> !</li>
+<li>me faire battre par Martin à <a href="http://www.smashbros.com/fr/index.html">Super Smash Bros Brawl</a></li>
+<li>finir les campagnes de Left 4 Dead en expert</li>
+<li>transformer l&#8217;intranet d&#8217;Ohm Force en extranet</li>
+<li>Utiliser Git.</li>
+<li>Donner des cours, mais je sens déjà que ca va être dur.</li>
+<li>???? ??? ? ???? ?? ????</li>
+<li>??? ?? ????? ????? ??? ????</li>
+</ul>
+
+<p>(oui y en a deux autres, mais ce sont des surprises, j&#8217;ai pas envie que Google vende la mèche à ceux que ça concerne)</p>
+
+<p>GL HF guys !</p>
+
+<p>(&#8220;good luck and have fun&#8221; dans la terminologie des jeux vidéos, et c&#8217;est aussi adapté en début d&#8217;année)</p>      

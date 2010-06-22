@@ -1,0 +1,21 @@
+---
+layout: post
+title: First Post
+---
+<p>Le nouveau blog est en ligne !
+Je garde l&#8217;autre toujours en ligne pour l&#8217;instant, avec toutes les archives.</p>
+
+
+	<p>Mais comme s&#8217;abonner &agrave; un site avec pas de contenu, c&#8217;est un peu pourri, j&#8217;ai r&eacute;import&eacute; quelques posts plus ou moins r&eacute;cents.</p>
+
+
+	<p>Bonne lecture !</p>
+
+
+	<p>(Mephisto, voil&agrave; un outil de geek &#8230; Mais je savais bien qu&#8217;il fallait qu&#8217;iWeb me claque dans les doigts pour me bouger ! )</p>
+
+
+	<p>[UPDATE : iWeb s&#8217;est r&eacute;par&eacute; tout seul &#8230; Il est possible que ce soit un probl&egrave;me de backend chez Apple, finalement. Mais c&#8217;est salutaire !</p>
+
+
+	<p>Je vais pouvoir tweaker mon moteur de blog &agrave; l&#8217;envi.]</p>      

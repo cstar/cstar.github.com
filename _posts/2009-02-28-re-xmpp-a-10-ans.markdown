@@ -1,0 +1,23 @@
+---
+layout: post
+title: Re: XMPP a 10 ans
+---
+<p>Je reviens tout juste de la Cité des Sciences et de l&#8217;Industrie pour une journée 50% familial,e 50% XMPP et 100% réussie.</p>
+
+<p>Je ne m&#8217;attendais pas à découvrir XMPP, mon objectif primaire était de faire une bijection tête &lt;-&gt; JID (c&#8217;est toujours enrichissant).</p>
+
+<p>Les présentations étaient assez peu techniques. Certainement un choix assumé &#8211; mais le public était composé surtout de techos, et on aurait pu rentrer dans les détails, avec du XML et des  XEP.</p>
+
+<p>A noter que la présentation &#8220;Introduction à Jabber facile&#8221; a du être annulée, et c&#8217;était peut-être celle-là qui aurait donné les billes.</p>
+
+<p>J&#8217;aurais aussi aimé qu&#8217;elle soit plus positive. C&#8217;est-à-dire qu&#8217;il y avait beaucoup d&#8217;arguments &#8220;XMPP &gt;&gt; MSN parce que MSN c&#8217;est le mal&#8221; (donc c&#8217;est en négatif). Ce en quoi je suis d&#8217;accord, mais il y aurait fallu beaucoup plus insister sur les points forts de XMPP dans l&#8217;absolu : l&#8217;extensibilité, la facilité de développement d&#8217;applicatif au-delà de l&#8217;IM. </p>
+
+<p>Avec trois présentations qui ont être annulées, et ayant manqué la présentation de <a href="http://ubikod.com/otmf/">Laurent Lathieyre</a> sur <a href="http://www.buddymob.com/">BuddyMob</a> et celle de Jan Torben Heuer,  ma perception était probablement biaisée.</p>
+
+<p>De toute manière, faut pas se leurrer, XMPP va finir par gagner  tout comme HTTP et SMTP ont réussi dans leur domaine respectif. C&#8217;est juste une question de temps, de code et d&#8217;évangélisme !</p>
+
+<p>Un gros succès était la présentation de Kael et de Jehan qui nous ont présentés des bots qui présentaient le programme télé, et les téléchargeaient en pilotant VLC. Kael va publier son code soon, me dit-il.</p>
+
+<p>Pour finir, merci beaucoup, <a href="http://jehan.zemarmot.net/blog/">Jehan</a>, d&#8217;avoir pris le temps et eu l&#8217;énergie d&#8217;organiser cette journée.</p>
+
+<p>PS : Et si vous voulez fêter l&#8217;anniversaire à nouveau, je préparerai peut-être quelque chose. (Ca fait quelques temps que j&#8217;ai pas donné de cours, et ça me manque de faire le clown devant des slides).</p>      

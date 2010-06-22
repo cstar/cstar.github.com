@@ -1,0 +1,61 @@
+---
+layout: post
+title: WS-*
+---
+<p><a href="http://www.loudthinking.com/arc/000602.html" title="http://www.loudthinking.com/arc/000602.html">Dave Heinemeier Hanson remet &ccedil;a !</a>  (apr&egrave;s  <a href="http://www.loudthinking.com/arc/000585.html" title="http://www.loudthinking.com/arc/000585.html">&ccedil;a</a> )  </p>
+
+<p>WSDL, SOAP, Sch&eacute;ma, UDDI, RPC, XML-Sec, WS-Sec &#8230; on empile et on ajoute des standards &#8230; et on perd l&rsquo;interoperabilit&eacute; (qui &eacute;tait d&eacute;j&agrave; flageolante, cf le type date dans la pile .Net, et l&rsquo;encodage DIME, tellement sup&eacute;rieur^Wdiff&eacute;rent du MIME :/ ), heureusement le comit&eacute; WS-I va standardiser les standards pour garantir le I de WS-I (l&rsquo;Interoperabilit&eacute;, justement) . </p>
+
+<p><a href="http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/" title="http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/">Ce post</a>  &eacute;claire particuli&egrave;rement le probl&egrave;me, en plus d&rsquo;&ecirc;tre dr&ocirc;le et simple &agrave; lire (m&ecirc;me pour un non-techos).  </p>
+
+<p>Pourtant la solution existe, et ce depuis plus longtemps que les WS eux-m&ecirc;me : le REST (REpresentational State Transfer), qui s&rsquo;appuie sur les concepts fondamentaux joyeusement pi&eacute;tin&eacute;s par les comit&eacute;s qui s&rsquo;occupent des standards Web Services. </p>
+
+<p>Quels sont les outils fondamentaux ? </p>
+
+<p>&#149;   HTTP  </p>
+
+<p>&#149;   Les URI  </p>
+
+<p>&#149;   XML  </p>
+
+<p>HTTP </p>
+
+<p>La  <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9" title="http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9">RFC 2616, chapitre 9</a>  indique quelles les m&eacute;thodes support&eacute;es par le protocole. Les navigateurs en utilisent deux : GET et POST.  </p>
+
+<p>Mais il y en deux autres : DELETE et PUT. </p>
+
+<p>Soit quatres m&eacute;thodes, POST, GET, PUT, DELETE, que l&rsquo;on peut mettre en relation avec l&rsquo;habituel CRUD : Create, Read, Update, Delete ;
+ ou avec le SQL : INSERT, SELECT, UPDATE, DELETE. </p>
+
+<p>Beaucoup de webservices et (d&rsquo;applications web en g&eacute;n&eacute;ral) sont construites sur le principe du CRUD. Plus ou moins masqu&eacute;, mais on peut toujours le retrouver. </p>
+
+<p>Donc on a les bases ici. Il nous reste &agrave; savoir sur quoi travailler. Pour &ccedil;a, on a les &#8230; </p>
+
+<p>URI </p>
+
+<p>Ca veut dire Universal Resource Identifier ( <a href="http://www.ietf.org/rfc/rfc2396.txt" title="http://www.ietf.org/rfc/rfc2396.txt">RFC 2396</a> ). Avec une URI, on identifie de mani&egrave;re unique une ressource sur le web.<br>
+ Une URI, c&rsquo;est &ccedil;a (par exemple) :  <a href="http://server/objet/id" title="http://server/objet/id">http://server/objet/id</a> .<br>
+ J&rsquo;identifie de mani&egrave;re unique un object, et dessus j&rsquo;utilise les m&eacute;thodes HTTP pour le modifier, le lire, l&rsquo;effacer. </p>
+
+<p>XML </p>
+
+<p>On continue &agrave; utiliser XML, pour l&rsquo;&eacute;change de donn&eacute;es. Le REST ne force pas de XML particulier, mais on peut toujours utiliser la DTD ou les schemas pour les &eacute;changes de donn&eacute;es. </p>
+
+<p>Et maintenant ? </p>
+
+<p>Les navigateurs ne supportent pas le PUT et le DELETE. (J&rsquo;ai test&eacute; sur Safari et Firefox, avec un formulaire avec comme m&eacute;thode PUT, sans succ&egrave;s, je m&rsquo;en doutais, mais je voulais &ecirc;tre s&ucirc;r). </p>
+
+<p>Mais l&rsquo;id&eacute;e derri&egrave;re, comme pour les webservices, c&rsquo;est faire parler les machines avec les machines faire du WEB DEUX POINT ZERO ! </p>
+
+<p>C&rsquo;est l&rsquo;une nouvelles fonctionnalit&eacute;s de la version 1.2 de Rails. On simplifie la pile, et on redonne le pouvoir aux d&eacute;veloppeurs.  </p>
+
+<p>Pas comme avec les WS. Parce que les WS, sans les g&eacute;n&eacute;rateurs de code ou de WSDL, on est pas sorti de la for&ecirc;t. Comme le faisait habilement remarquer un rebelle du REST (j&rsquo;ai plus le lien vers son blog, d&egrave;s que je le retrouve, je le mets), les concepteurs des WS sont IBM, MS, BEA, ARIBA &#8230; Des &eacute;diteurs d&rsquo;outils, qui vendent des outils et des consultants pour les utiliser. Ils vont pas faire un truc trop simple &#8230; et m&ecirc;me s&rsquo;ils voulaient, &ccedil;a doit &ecirc;tre dur pour eux de se mettre d&rsquo;accord. </p>
+
+<p>De la lecture : </p>
+
+<ul>
+<li><a href="http://www.loudthinking.com/lt-files/worldofresources.pdf" title="http://www.loudthinking.com/lt-files/worldofresources.pdf">Les slides de DHH sur les ressources.</a> </li>
+<li><a href="http://xmlfr.org/actualites/decid/021115-0001" title="http://xmlfr.org/actualites/decid/021115-0001">XMLfr : &ldquo;WS : &agrave; la mode et/ou &agrave; c&ocirc;t&eacute; de la plaque ?&rdquo;</a> </li>
+<li><p><a href="http://naeblis.cx/articles/2004/12/12/rest-to-my-wife" title="http://naeblis.cx/articles/2004/12/12/rest-to-my-wife">REST explained to my wife</a> .  </p></li>
+<li><p><a href="http://www.tbray.org/ongoing/When/200x/2006/11/16/WS-Socratic" title="http://www.tbray.org/ongoing/When/200x/2006/11/16/WS-Socratic">Tim Bray </a> parle des WS aussi. (L&rsquo;un des auteurs de XML. A travaill&eacute; au W3C et sur le format de syndication Atom.)  </p></li>
+</ul>      
